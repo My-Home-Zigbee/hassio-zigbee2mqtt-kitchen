@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant App: Zigbee2MQTT",
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
+  "name": "Home Assistant App: Zigbee2MQTT Кухня",
+  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt-kitchen",
   "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
 }
